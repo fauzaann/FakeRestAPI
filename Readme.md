@@ -1,4 +1,4 @@
-# API Test Plan: Fake REST API
+# FakeRestAPI# API Test Plan: Fake REST API
 
 Dokumen test plan untuk pengujian **Fake REST API**, sebuah API simulator untuk sistem manajemen buku.
 
@@ -87,7 +87,6 @@ api-test-plan-fakerestapi/
 │   └── API_Test_Plan_FakeRESTApi.pdf
 ├── postman/                 (opsional)
 │   └── FakeRESTApi.postman_collection.json
-└── screenshots/             (opsional)
 ```
 
 ## Penulis
